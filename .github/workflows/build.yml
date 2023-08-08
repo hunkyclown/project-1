@@ -1,7 +1,7 @@
-app
+(app)
 
 # (str) Title of your application
-title = My Application
+title = Hesap makinesi
 
 # (str) Package name
 package.name = myapp
