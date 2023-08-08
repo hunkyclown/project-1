@@ -8,10 +8,7 @@ title = Hesap Makinesi
 # Uygulamanın ana Python dosyası
 source.dir = .
 
-# Ana Python dosyanızın adı (örneğin, hesapmakinesi.py)
-source.include_exts = py
-
-# Kivy uygulamasını en son sürümüne döndürme
+# Ana Python dosyanızın adı (örneğin, hesapmakinesiamasını en son sürümüne döndürme
 requirements = python3,kivy
 
 # APK paketleme yapısı
