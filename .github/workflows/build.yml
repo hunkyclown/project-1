@@ -1,19 +1,25 @@
- 
+# buildozer.spec formatında yapılandırma dosyası
 
+[app]
 
+# Uygulamanın adı
+title = Hesap Makinesi
 
+# Uygulamanın ana Python dosyası
 source.dir = .
 
+# Ana Python dosyanızın adı (örneğin, hesapmakinesi.py)
 source.include_exts = py
 
+# Kivy uygulamasını en son sürümüne döndürme
+requirements = python3,kivy
 
-requirements = kivy==2.0.0
-
+# APK paketleme yapısı
 package.name = hesapmakinesi
+package.domain = org.example
 
-package.domain = com.example
-
+# Versiyon numarası
 version = 1.0
 
+# Uygulama ikonu
 icon.filename = icon.png
-
