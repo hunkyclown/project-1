@@ -1,9 +1,19 @@
 [app]
+
 title = Hesap Makinesi
+
 source.dir = .
+
 source.include_exts = py
+
+
 requirements = kivy==2.0.0
+
 package.name = hesapmakinesi
+
 package.domain = com.example
+
 version = 1.0
+
 icon.filename = icon.png
+
