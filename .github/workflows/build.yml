@@ -1,5 +1,5 @@
 # buildozer.spec formatında yapılandırma dosyası
-[app]
+
 
 # Uygulamanın adı
 title = Hesap Makinesi
